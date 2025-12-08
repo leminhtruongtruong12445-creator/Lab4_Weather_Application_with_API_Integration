@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+Bấm Vào image_test_app để xem ảnh app chạy minh họa
 
 ## Getting Started
 
